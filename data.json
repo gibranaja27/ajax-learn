@@ -1,0 +1,17 @@
+{
+  "nama_toko": "Toko Buku Gunung Agung",
+  "pengarang": "Gibran Raja Aulia Putranami",
+  "alamat": "Bandung, Jalan sukabirus",
+  "koleksi_buku": [
+    {
+      "judul": "Petualangan Kelam Gibran",
+      "pengarang": "Gibran Raja Aulia Putranami",
+      "tahun_terbit": "2021"
+    },
+    {
+      "judul": "Perjalanan ekspedisi Gibran",
+      "pengarang": "Gibran Raja Aulia Putranami",
+      "tahun_terbit": "2020"
+    }
+  ]
+}
